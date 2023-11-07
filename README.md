@@ -8,7 +8,7 @@ nim    : 312210082
 berikut code untuk android studionya
 
 Main activity
-package com.example.tugastengah;
+@package com.example.tugastengah;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
