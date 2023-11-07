@@ -7,7 +7,7 @@ nim    : 312210082
 
 berikut code untuk android studionya
 
-Main activity sbb:<br>
+Main activity
 ``` java
 package com.example.tugastengah;
 
